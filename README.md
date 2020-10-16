@@ -2,7 +2,7 @@
 <img src="static/img/smokey_bot.jpg" height="150px">
   </p>
 
-<h2 align="center"> Smokey Bot <img src="https://img.shields.io/website/https/evening-coast-69979.herokuapp.com?down_color=lightgrey&down_message=offline&label=bot&style=flat-square&up_color=blue&up_message=online">
+<h2 align="center"> AirClearBot <img src="https://img.shields.io/website/https/evening-coast-69979.herokuapp.com?down_color=lightgrey&down_message=offline&label=bot&style=flat-square&up_color=blue&up_message=online">
 <img src="http://hits.dwyl.io/udit-001/smokey-bot.svg" alt="Hit Count">
 </h2>
 
